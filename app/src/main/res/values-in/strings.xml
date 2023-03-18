@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chapter2#5</string>
+    <string name="input_username">Masukkan Nama Pengguna</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="sign_up">Daftar</string>
+    <string name="hello_assalamu_alaikum">Halo, Assalamu\'alaikum</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter2#5</string>
+    <string name="login" translatable="false">LOGIN</string>
+    <string name="input_username">Input Username</string>
+    <string name="input_password">Input Password</string>
+    <string name="login1" translatable="false">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="hello_assalamu_alaikum">Hello, Assalamu\'alaikum</string>
+</resources>
